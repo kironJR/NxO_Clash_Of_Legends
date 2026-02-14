@@ -32,7 +32,6 @@ subDiv.appendChild(btn);
 }
 
 function updateView(){
-
 let list=allCards.filter(c=>{
 if(currentSub==='全部') return true;
 return c.subType===currentSub;
@@ -40,9 +39,7 @@ return c.subType===currentSub;
 
 let search=document.getElementById('searchBox');
 if(search && search.value){
-list=list.filter(c=>
-c.name.includes(search.value)
-);
+list=list.filter(c=>c.name.includes(search.value));
 }
 
 showCards(list);
@@ -57,17 +54,29 @@ let div=document.createElement('div');
 div.className='card';
 
 div.innerHTML=`
-<img src="${card.image}">
-<p>${card.name}</p>
-<p>${card.subType||''}</p>
-<p>${card.desc||''}</p>
+<img src="${card.image}" loading="lazy" onclick="showLightbox('${card.image}')">
+<p class="name">${card.name}</p>
+<p class="sub">${card.subType||''}</p>
+<p class="desc">${card.desc||''}</p>
 `;
 
 container.appendChild(div);
 });
 }
 
+/* 搜索实时触发 */
 let search=document.getElementById('searchBox');
 if(search){
 search.oninput=updateView;
+}
+
+/* 弹窗功能 */
+function showLightbox(src){
+let lb=document.getElementById('lightbox');
+let img=document.getElementById('lightboxImg');
+img.src=src;
+lb.style.display='flex';
+}
+function closeLightbox(){
+document.getElementById('lightbox').style.display='none';
 }
