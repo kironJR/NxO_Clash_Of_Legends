@@ -1,3 +1,24 @@
+body{
+background:#111;
+color:#ddd;
+font-family:serif;
+margin:0;
+padding:10px;
+}
+
+.title{
+text-align:center;
+color:#c9a55c;
+}
+
+button{
+background:#222;
+border:1px solid #555;
+color:#c9a55c;
+padding:8px 12px;
+border-radius:8px;
+}
+
 /* 网格自适应 */
 .grid{
 display:grid;
