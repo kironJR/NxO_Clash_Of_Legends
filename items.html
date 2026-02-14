@@ -6,7 +6,6 @@
 <title>道具图鉴</title>
 <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
 <h1 class="title">道具图鉴</h1>
@@ -17,10 +16,15 @@
 <div id="cardContainer" class="grid"></div>
 
 <script>
-const MAIN_TYPE='装备';
+const MAIN_TYPE='装备';  // items.html 改成 '装备', rules.html 改成 '常用规则'
 </script>
 
 <script src="gallery.js"></script>
+
+<!-- 弹窗用的简单Lightbox -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <img id="lightboxImg" src="">
+</div>
 
 </body>
 </html>
