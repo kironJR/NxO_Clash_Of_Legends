@@ -93,420 +93,420 @@
         {
     "name": "14不死鸟",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/14不死鸟.png",
     "desc": ""
   },
         {
     "name": "15艾尼路",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/15艾尼路.png",
     "desc": ""
   },
         {
     "name": "16藤虎",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/16藤虎.png",
     "desc": ""
   },
         {
     "name": "17烬",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/17烬.png",
     "desc": ""
   },
         {
     "name": "18明哥",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/18明哥.png",
     "desc": ""
   },
         {
     "name": "19黑胡子",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/19黑胡子.png",
     "desc": ""
   },
         {
     "name": "20鬼椒",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/20鬼椒.png",
     "desc": ""
   },
         {
     "name": "21角都",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/21角都.png",
     "desc": ""
   },
         {
     "name": "22卡卡西",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/22卡卡西.png",
     "desc": ""
   },
         {
     "name": "23凯",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/23凯.png",
     "desc": ""
   },
         {
     "name": "24团藏",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/24团藏.png",
     "desc": ""
   },
         {
     "name": "25半藏",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/25半藏.png",
     "desc": ""
   },
         {
     "name": "26大熊",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/26大熊.png",
     "desc": ""
   },
         {
     "name": "27大蛇丸",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/27大蛇丸.png",
     "desc": ""
   },
         {
     "name": "28纲手",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/28纲手.png",
     "desc": ""
   },
         {
     "name": "29自来也",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv4",
     "image": "images/roles/29自来也.png",
     "desc": ""
   },
         {
     "name": "30迪达拉",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/30迪达拉.png",
     "desc": ""
   },
         {
     "name": "31蝎",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/31蝎.png",
     "desc": ""
   },
         {
     "name": "32兜",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/32兜.png",
     "desc": ""
   },
         {
     "name": "33再不斩",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/33再不斩.png",
     "desc": ""
   },
         {
     "name": "34我爱罗",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/34我爱罗.png",
     "desc": ""
   },
         {
     "name": "35鸣人",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/35鸣人.png",
     "desc": ""
   },
         {
     "name": "36佐助",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/36佐助.png",
     "desc": ""
   },
         {
     "name": "37希留",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/37希留.png",
     "desc": ""
   },
         {
     "name": "38甚平",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/38甚平.png",
     "desc": ""
   },
         {
     "name": "39基德",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/39基德.png",
     "desc": ""
   },
         {
     "name": "40罗",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/40罗.png",
     "desc": ""
   },
         {
     "name": "41路飞",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/41路飞.png",
     "desc": ""
   },
         {
     "name": "42索隆",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/42索隆.png",
     "desc": ""
   },
         {
     "name": "43山治",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/43山治.png",
     "desc": ""
   },
         {
     "name": "44奎因",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/44奎因.png",
     "desc": ""
   },
         {
     "name": "45乔兹",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/45乔兹.png",
     "desc": ""
   },
         {
     "name": "46女帝",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/46女帝.png",
     "desc": ""
   },
         {
     "name": "47莫利亚",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/47莫利亚.png",
     "desc": ""
   },
         {
     "name": "48老沙",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/48老沙.png",
     "desc": ""
   },
         {
     "name": "49路基",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv3",
     "image": "images/roles/49路基.png",
     "desc": ""
   },
         {
     "name": "50小樱",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/50小樱.png",
     "desc": ""
   },
         {
     "name": "51飞段",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/51飞段.png",
     "desc": ""
   },
         {
     "name": "52地狱道",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/52地狱道.png",
     "desc": ""
   },
         {
     "name": "53畜生道",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/53畜生道.png",
     "desc": ""
   },
         {
     "name": "54斯摩格",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/54斯摩格.png",
     "desc": ""
   },
         {
     "name": "55弗兰奇",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/55弗兰奇.png",
     "desc": ""
   },
         {
     "name": "56乌索普",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/56乌索普.png",
     "desc": ""
   },
         {
     "name": "57杰克",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/57杰克.png",
     "desc": ""
   },
         {
     "name": "58小南",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/58小南.png",
     "desc": ""
   },
         {
     "name": "59罗宾",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/59罗宾.png",
     "desc": ""
   },
         {
     "name": "60霍金斯",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/60霍金斯.png",
     "desc": ""
   },
         {
     "name": "61基拉",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv2",
     "image": "images/roles/61基拉.png",
     "desc": ""
   },
         {
     "name": "62乔巴",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/62乔巴.png",
     "desc": ""
   },
         {
     "name": "63娜美",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/63娜美.png",
     "desc": ""
   },
         {
     "name": "64巴基",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/64巴基.png",
     "desc": ""
   },
         {
     "name": "65mr1",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/65mr1.png",
     "desc": ""
   },
         {
     "name": "66布鲁克",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/66布鲁克.png",
     "desc": ""
   },
         {
     "name": "67鹿丸",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/67鹿丸.png",
     "desc": ""
   },
         {
     "name": "68阿飞",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/68阿飞.png",
     "desc": ""
   },
         {
     "name": "69绝",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/69绝.png",
     "desc": ""
   },
         {
     "name": "70人间道",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/70人间道.png",
     "desc": ""
   },
         {
     "name": "71修罗道",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/71修罗道.png",
     "desc": ""
   },
         {
     "name": "72饿鬼道",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/72饿鬼道.png",
     "desc": ""
   },
         {
     "name": "73阿斯玛",
     "bigType": "角色",
-    "subType": "Lv6",
+    "subType": "Lv1",
     "image": "images/roles/73阿斯玛.png",
     "desc": ""
   },
