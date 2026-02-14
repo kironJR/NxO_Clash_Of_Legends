@@ -11,12 +11,13 @@
 
 <h1 class="title">竞技场卡牌图鉴</h1>
 
-<div class="filter">
-<button onclick="filterType('全部')">全部</button>
-<button onclick="filterType('角色')">角色</button>
-<button onclick="filterType('装备')">装备</button>
-<button onclick="filterType('常用规则')">规则</button>
+<div class="filter" id="mainFilter">
+<button onclick="selectMain('角色')">角色</button>
+<button onclick="selectMain('装备')">装备</button>
+<button onclick="selectMain('常用规则')">规则</button>
 </div>
+
+<div id="subFilter" class="filter"></div>
 
 <div id="cardContainer" class="grid"></div>
 
