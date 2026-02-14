@@ -17,7 +17,9 @@ div.className='card';
 
 div.innerHTML=`
 <img src="${card.image}">
-<p>${card.name}</p>
+<p class="name">${card.name}</p>
+<p class="sub">${card.subType || ''}</p>
+<p class="desc">${card.desc || ''}</p>
 `;
 
 container.appendChild(div);
