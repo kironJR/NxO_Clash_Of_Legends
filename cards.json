@@ -1,1 +1,24 @@
+[
+  {
+    "name": "百兽凯多",
+    "bigType": "角色",
+    "subType": "6级",
+    "image": "images/roles/01.png",
+    "desc": "高等级角色示例"
+  },
+  {
+    "name": "小型生命药剂",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/01.png",
+    "desc": "高伤害装备"
+  },
+  {
+    "name": "攻击范围",
+    "bigType": "常用规则",
+    "subType": "攻击范围介绍",
+    "image": "images/rules/rule01.png",
+    "desc": "攻击范围说明"
+  }
+]
 
