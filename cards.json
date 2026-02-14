@@ -2,9 +2,23 @@
   {
     "name": "百兽凯多",
     "bigType": "角色",
-    "subType": "6级",
+    "subType": "Lv6",
     "image": "images/roles/01.png",
-    "desc": "asdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "desc": ""
+  },
+    {
+    "name": "赤犬",
+    "bigType": "角色",
+    "subType": "Lv6",
+    "image": "images/roles/02赤犬.png",
+    "desc": ""
+  },
+    {
+    "name": "白胡子",
+    "bigType": "角色",
+    "subType": "Lv6",
+    "image": "images/roles/03白胡子.png",
+    "desc": ""
   },
   {
     "name": "小型生命药剂",
