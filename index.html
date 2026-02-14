@@ -3,25 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NxO:Clash of Legends</title>
+<title>竞技场卡牌库</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body class="home">
 
-<h1 class="title">竞技场卡牌图鉴</h1>
+<div class="homeBox">
 
-<div class="filter" id="mainFilter">
-<button onclick="selectMain('角色')">角色</button>
-<button onclick="selectMain('装备')">装备</button>
-<button onclick="selectMain('常用规则')">规则</button>
+<img src="images/logo.png" class="logo">
+
+<h1>竞技场桌游图鉴</h1>
+
+<p class="intro">
+这里记录了全部角色、装备与常用规则。
+进入不同图鉴查看详细卡牌。
+</p>
+
+<div class="menu">
+<a href="heroes.html" class="menuBtn">英雄图鉴</a>
+<a href="items.html" class="menuBtn">道具图鉴</a>
+<a href="rules.html" class="menuBtn">常用规则</a>
 </div>
 
-<div id="subFilter" class="filter"></div>
+</div>
 
-<div id="cardContainer" class="grid"></div>
-
-<script src="script.js"></script>
 </body>
 </html>
-
