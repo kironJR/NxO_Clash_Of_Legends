@@ -109,7 +109,7 @@
     "bigType": "角色",
     "subType": "Lv4",
     "image": "images/roles/16藤虎.png",
-    "desc": ""
+    "desc": "二技能印刷错误，效果应为：击退1格"
   },
         {
     "name": "17烬",
@@ -506,7 +506,7 @@
         {
     "name": "73阿斯玛",
     "bigType": "角色",
-    "subType": "Lv1",
+    "subType": "Lv3",
     "image": "images/roles/73阿斯玛.png",
     "desc": ""
   },
@@ -634,8 +634,380 @@
     "bigType": "装备",
     "subType": "3钻",
     "image": "images/equip/01.png",
-    "desc": "高伤害装备"
+    "desc": ""
   },
+    {
+    "name": "轰雷卷轴",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/04轰雷卷轴.png",
+    "desc": ""
+  },
+  {
+    "name": "混乱卷轴",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/05混乱卷轴.png",
+    "desc": ""
+  },
+  {
+    "name": "迟缓卷轴",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/06迟缓卷轴.png",
+    "desc": ""
+  },
+  {
+    "name": "吹飞卷轴",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/07吹飞卷轴.png",
+    "desc": ""
+  },
+  {
+    "name": "完美封锁",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/08完美封锁.png",
+    "desc": ""
+  },
+  {
+    "name": "兴奋药剂",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/09兴奋药剂1.png",
+    "desc": ""
+  },
+  {
+    "name": "狂化药剂1",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/13狂化药剂1.png",
+    "desc": ""
+  },
+  {
+    "name": "风之戒",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/15风之戒.png",
+    "desc": ""
+  },
+  {
+    "name": "16水之戒",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/16水之戒.png",
+    "desc": ""
+  },
+  {
+    "name": "17火之戒",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/17火之戒.png",
+    "desc": ""
+  },
+  {
+    "name": "18土之戒",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/18土之戒.png",
+    "desc": ""
+  },
+  {
+    "name": "19雷之戒",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/19雷之戒.png",
+    "desc": ""
+  },
+  {
+    "name": "20风火祝福",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/20风火祝福.png",
+    "desc": ""
+  },
+  {
+    "name": "21风水祝福",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/21风水祝福.png",
+    "desc": ""
+  },
+  {
+    "name": "22火水祝福",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/22火水祝福.png",
+    "desc": ""
+  },
+  {
+    "name": "23火土祝福",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/23火土祝福.png",
+    "desc": ""
+  },
+  {
+    "name": "24水土祝福",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/24水土祝福.png",
+    "desc": ""
+  },
+  {
+    "name": "25水雷祝福",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/25水雷祝福.png",
+    "desc": ""
+  },
+  {
+    "name": "26土雷",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/26土雷.png",
+    "desc": ""
+  },
+    {
+    "name": "27土风",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/27土风.png",
+    "desc": ""
+  },
+    {
+    "name": "28雷风",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/28雷风.png",
+    "desc": ""
+  },
+    {
+    "name": "29雷火",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/29雷火.png",
+    "desc": ""
+  },
+    {
+    "name": "30回城",
+    "bigType": "装备",
+    "subType": "3钻",
+    "image": "images/equip/30回城.png",
+    "desc": ""
+  },
+      {
+    "name": "31神速药剂",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/31神速药剂.png",
+    "desc": ""
+  }
+        {
+    "name": "32活力药剂",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/32活力药剂.png",
+    "desc": ""
+  }
+        {
+    "name": "33大生命药剂",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/33大生命药剂.png",
+    "desc": ""
+  }
+        {
+    "name": "34尘埃增益",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/34尘埃增益.png",
+    "desc": ""
+  }
+        {
+    "name": "35巨木增益",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/35巨木增益.png",
+    "desc": ""
+  }
+        {
+    "name": "36蒸汽增益",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/36蒸汽增益.png",
+    "desc": ""
+  }
+        {
+    "name": "37熔岩增益",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/37熔岩增益.png",
+    "desc": ""
+  }
+        {
+    "name": "38迷雾增益",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/38迷雾增益.png",
+    "desc": ""
+  }
+        {
+    "name": "39完美闪避",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/39完美闪避.png",
+    "desc": ""
+  }
+        {
+    "name": "40狂暴药剂",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/40狂暴药剂.png",
+    "desc": ""
+  }
+        {
+    "name": "41力量药剂",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/41力量药剂.png",
+    "desc": ""
+  }
+        {
+    "name": "42斩首大刀",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/42斩首大刀.png",
+    "desc": ""
+  }
+        {
+    "name": "43鲛肌",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/43鲛肌.png",
+    "desc": ""
+  }
+        {
+    "name": "44一文字",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/44一文字.png",
+    "desc": ""
+  }
+        {
+    "name": "45十手",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/45十手.png",
+    "desc": ""
+  }
+        {
+    "name": "46忍者马甲",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/46忍者马甲.png",
+    "desc": ""
+  }
+        {
+    "name": "47海军制服",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/47海军制服.png",
+    "desc": ""
+  }
+        {
+    "name": "48狙击强化",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/48狙击强化.png",
+    "desc": ""
+  }
+        {
+    "name": "49头脑强化",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/49头脑强化.png",
+    "desc": ""
+  }
+        {
+    "name": "50野兽强化",
+    "bigType": "装备",
+    "subType": "6钻",
+    "image": "images/equip/50野兽强化.png",
+    "desc": ""
+  }
+        {
+    "name": "51团扇",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/51团扇.png",
+    "desc": ""
+  }
+          {
+    "name": "52黑刀",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/52黑刀.png",
+    "desc": ""
+  }
+          {
+    "name": "53天龙人礼服",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/53天龙人礼服.png",
+    "desc": ""
+  }
+          {
+    "name": "54晓袍",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/54晓袍.png",
+    "desc": ""
+  }
+          {
+    "name": "55火影披风",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/55火影披风.png",
+    "desc": ""
+  }
+          {
+    "name": "56和之国铠甲",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/56和之国铠甲.png",
+    "desc": ""
+  }
+          {
+    "name": "57除魔令",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/57除魔令.png",
+    "desc": ""
+  }
+          {
+    "name": "58天上金",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/58天上金.png",
+    "desc": ""
+  }
+          {
+    "name": "59暴击戒指",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/59暴击戒指.png",
+    "desc": ""
+  }
+          {
+    "name": "60守卫戒指",
+    "bigType": "装备",
+    "subType": "9钻",
+    "image": "images/equip/60守卫戒指.png",
+    "desc": ""
+  }
+  
   {
     "name": "攻击范围",
     "bigType": "常用规则",
