@@ -1013,7 +1013,23 @@
     "bigType": "常用规则",
     "subType": "攻击范围介绍",
     "image": "images/rule/rule01.png",
-    "desc": "攻击范围说明"
+    "desc": "蓝色圆圈代表释放者位置，红色区域表示技能释放的目标格，黄色区域表示范围攻击的额外影响区域"
+  }
+
+    {
+    "name": "先手限制",
+    "bigType": "常用规则",
+    "subType": "先手一方的特殊限制",
+    "image": "images/rule/0.png",
+    "desc": "先手一方阵容在第一回合不能获得骰子，且商店不展示商品"
+  }
+      {
+    "name": "商店相关",
+    "bigType": "常用规则",
+    "subType": "商店相关",
+    "image": "images/rule/0.png",
+    "desc": "1.进入商店和拾取1钻石都花费1ap
+        2.商店的卡堆每个级别会展示x件商品，x=3，2，1"
   }
 ]
 
