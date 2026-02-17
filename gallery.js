@@ -57,7 +57,7 @@ div.innerHTML=`
 <img src="${card.image}" loading="lazy" onclick="showLightbox('${card.image}')">
 <p class="name">${card.name}</p>
 <p class="sub">${card.subType||''}</p>
-<p class="desc">${card.desc||''}</p>
+<p class="desc">${card.desc ? card.desc.replace(/\n/g,"<br>") : ''}</p>
 `;
 
 container.appendChild(div);
